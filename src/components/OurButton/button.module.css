@@ -8,6 +8,6 @@
 }
 
 .ourButton:hover {
-  background-color: rgb(102, 143, 255);
+  background-color: #000;
   cursor: pointer;
 }
