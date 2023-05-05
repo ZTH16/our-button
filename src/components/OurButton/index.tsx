@@ -13,7 +13,7 @@ export default function OurButton() {
   return (
     <Center>
       <button onClick={(e) => handleClick()} className={style.ourButton}>
-        Our Button
+        Home
       </button>
     </Center>
   )
