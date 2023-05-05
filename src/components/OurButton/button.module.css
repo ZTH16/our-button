@@ -1,16 +1,18 @@
 .ourButton {
   color: #fff;
   font-size: 2.26rem;
-  padding: 50px;
-  border-radius: 20px;
+  padding: 30px;
+  border-radius: 60px;
   border: 1px solid #fff;
   background-color: rgba(24, 39, 51, 0.85);
   ;
 }
 
 .ourButton:hover {
-  background-color: rgb(102, 143, 255);
+  color: #82cb42;
+  background-color: rgba(19, 61, 94, 0.85);
   cursor: pointer;
+  border: 1px solid rgba(4, 32, 56, 1);
 }
 
 .animation {
