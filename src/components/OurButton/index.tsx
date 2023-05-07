@@ -14,8 +14,7 @@ export default function OurButton() {
   return (
     <Showcase>
       <Center>
-
-
+      <div  className={style.profile}> </div>
         <button onClick={(e) => handleClick()} className={style.ourButton}>
           <section className={style.animation}>
             <div className={style.first}><div>Hello</div></div>
