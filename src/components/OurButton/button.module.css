@@ -99,8 +99,5 @@
   background-color: rgba(19, 61, 94, 0.85);
   cursor: pointer;
   border: 1px solid rgba(4, 32, 56, 1);
-}
-
-.ourButton:hover div {
-  display:visibly;
+  scale: 1.1;
 }
